@@ -16,7 +16,7 @@ Ein Café-Inhaber stellt eine Verkaufsdatei für 2023 bereit, die absichtlich �
 
 | Was | Link |
 |---|---|
-| Interaktives Dashboard (Tableau Public, Deutsch) | [Café-Umsatz 2023](TABLEAU_PUBLIC_LINK) |
+| Interaktives Dashboard (Tableau Public, Deutsch) | [Café-Umsatz 2023](https://public.tableau.com/views/Sales_cafe/bersicht?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 | Notebook: Bereinigung + EDA | [notebooks/cafe_sales_analysis.ipynb](notebooks/cafe_sales_analysis.ipynb) |
 | Datensatz (Kaggle) | [Cafe Sales – Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training) |
 
