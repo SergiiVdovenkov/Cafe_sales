@@ -16,7 +16,7 @@ A café owner provides a sales file for 2023 that is deliberately "dirty": gaps,
 
 | What | Link |
 |---|---|
-| Interactive dashboard (Tableau Public, German) | [Café-Umsatz 2023](TABLEAU_PUBLIC_LINK) |
+| Interactive dashboard (Tableau Public, German) | [Café-Umsatz 2023](https://public.tableau.com/views/Sales_cafe/bersicht?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 | Notebook: cleaning + EDA | [notebooks/cafe_sales_analysis.ipynb](notebooks/cafe_sales_analysis.ipynb) |
 | Dataset (Kaggle) | [Cafe Sales – Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training) |
 
